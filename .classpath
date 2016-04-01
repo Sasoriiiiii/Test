@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="src/test/" kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="F:/share/software/selenium/selenium-java-client-driver-1.0.2.jar" sourcepath="F:/share/software/selenium/selenium/selenium-java-2.25.0-srcs.jar"/>
+	<classpathentry kind="lib" path="F:/share/software/selenium/junit-4.10.jar" sourcepath="F:/share/software/selenium/junit-4.10-src.jar"/>
+	<classpathentry kind="lib" path="F:/share/software/selenium/selenium-2.48.2/selenium-java-2.48.2.jar" sourcepath="F:/share/software/selenium/selenium-2.48.2/selenium-java-2.48.2-srcs.jar"/>
+	<classpathentry kind="lib" path="F:/share/software/selenium/selenium-2.48.2/selenium-java-2.48.2-srcs.jar"/>
+	<classpathentry kind="lib" path="F:/share/software/selenium/selenium-server-standalone-2.48.2.jar"/>
+	<classpathentry kind="lib" path="F:/share/software/selenium/mysql-connector-java-5.1.38-bin.jar"/>
+	<classpathentry kind="lib" path="F:/share/software/selenium/otheros/selendroid-client-0.17.0.jar"/>
+	<classpathentry kind="lib" path="F:/share/software/selenium/otheros/selendroid-standalone-0.15.0-with-dependencies.jar"/>
+	<classpathentry kind="lib" path="F:/share/software/selenium/httpclient/httpcomponents-client-4.5.1/lib/httpclient-4.5.1.jar"/>
+	<classpathentry kind="lib" path="F:/share/software/selenium/httpclient/fastjson-1.1.36.jar"/>
+	<classpathentry kind="lib" path="F:/share/software/selenium/httpclient/json-path-0.8.0.jar"/>
+	<classpathentry kind="lib" path="F:/share/software/selenium/httpclient/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="F:/share/software/selenium/httpclient/json-smart-2.0-RC3.jar"/>
+	<classpathentry kind="lib" path="F:/share/software/selenium/appium/java-client-1.7.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
